@@ -42,14 +42,23 @@ OpenSource Fabless working flow
 - efabless : https://www.efabless.com/  
 
 
+- pyverilog : https://github.com/PyHDI/Pyverilog
+
+---
+
+### openlane install script
+
+- openlane set-up : https://github.com/nickson-jose/openlane_build_script
+- vsdflow : https://github.com/kunalg123/vsdflow
+
 ## flow
 
-- RISC-V core generation in Rocket-chipe
+- RISC-V core generation in Rocket-chip
 - IP-code-Generation
 - integration
 - Verification (UVM)
-- Synthesis (yosys+abc with skywater-pdk)
 - Openlane flow
+	- Synthesis (yosys+abc with skywater-pdk)
 
 
 ## How to Set-up Dev-Env
