@@ -1,0 +1,6 @@
+[submodule "chipyard"]
+	path = chipyard
+	url = https://github.com/OSFabless/chipyard.git
+[submodule "openlane"]
+	path = openlane
+	url = https://github.com/OSFabless/openlane.git
